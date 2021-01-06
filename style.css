@@ -8,7 +8,7 @@
 body {
   display: flex;
   flex-direction: column;
-  background-color: #f1e871;
+  background-color: #fcd34d;
   margin: 0;
   min-height: 100vh;
   text-align: center;
@@ -17,7 +17,7 @@ body {
 header,
 footer {
   display: block;
-  background-color: #fbbf24;
+  background-color: #f59e0b;
 }
 
 footer {
@@ -68,6 +68,7 @@ button:hover {
   background-color: #fef3c7;
   font-size: 24px;
   width: 45vw;
+  height: 80px;
   padding: 20px 10px;
 }
 
