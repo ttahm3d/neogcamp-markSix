@@ -20,6 +20,10 @@ footer {
   background-color: #f59e0b;
 }
 
+h1 {
+  font-weight: 800;
+}
+
 footer {
   margin-top: auto;
 }
@@ -30,7 +34,6 @@ footer a {
 }
 
 main {
-  border: 1px soild red;
   background-repeat: none;
   background-position: 50%;
   display: flex;
